@@ -12,15 +12,17 @@ Data is collected from 2 male and 1 female. Training data is consist of 1 male a
 
 If you want to reproduce the whole training procedure, please make sure to install hyper opt. 
 
-conda install -c conda-forge hyperopt
+‘conda install -c conda-forge hyperopt’
 
 For finding hyper-parameters, 
-	python opt.py
+	‘python opt.py’
 
 For training model,
-	python train.py
+	‘python train.py’
 
 For predicting,
-	python predict.py
+	‘python predict.py’
+
+Sample prediction:
 
 ![image](https://github.com/Siriusize/HumanActivityRecognition-holding_detection/blob/master/image/test.png)
