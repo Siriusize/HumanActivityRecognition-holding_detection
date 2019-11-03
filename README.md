@@ -23,4 +23,4 @@ For training model,
 For predicting,
 	python predict.py
 
-
+![image](https://github.com/Siriusize/HumanActivityRecognition-holding_detection/blob/master/image/test.png)
