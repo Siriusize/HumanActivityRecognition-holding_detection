@@ -1,4 +1,5 @@
 This git re-enforced paper with minor structure changes: 
+
 Real-time human activity recognition from accelerometer data using Convolutional Neural Networks 
 https://www.sciencedirect.com/science/article/pii/S1568494617305665
 
