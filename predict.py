@@ -52,7 +52,7 @@ if __name__ == '__main__':
     filepath = './testing_samples/test.json'
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     x = [0,3,6,9,12,15]
-    gt = [0,0,0,0,1,1]
+    gt = [0,0,0,0,1,1] # ground truth of test1 is [1,1,1,0,0,0]
 
     prediction = HAR_predict(filepath)
 
