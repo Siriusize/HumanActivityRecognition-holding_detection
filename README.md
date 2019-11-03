@@ -1,4 +1,4 @@
-This git re-enforced paper with minor changes: Real-time human activity recognition from accelerometer data using Convolutional Neural Networks 
+This git re-enforced paper with minor structure changes: Real-time human activity recognition from accelerometer data using Convolutional Neural Networks 
 https://www.sciencedirect.com/science/article/pii/S1568494617305665
 
 Original model is enforced in python2 and tensorflow1.0, which is sort of old-fashion. https://github.com/aiff22/HAR
